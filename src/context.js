@@ -69,8 +69,6 @@ class RoomProvider extends Component {
     let {rooms, type,
         capacity,
         price,
-        minPrice,
-        maxPrice,
         minSize,
         maxSize,
         breakfast,
